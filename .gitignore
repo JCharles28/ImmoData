@@ -2,7 +2,7 @@
 # Fichier contenant tout fichier/dossier du répertoire à exclure dans les poussées de code
 # exclure les fichiers de données
 
-./data/*.json
-./data/*.csv
-./data/*.txt
-./data/*.json
+/data/*.json
+/data/*.csv
+/data/*.txt
+/data/*.json
