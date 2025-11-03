@@ -6,3 +6,7 @@
 /data/*.csv
 /data/*.txt
 /data/*.json
+
+/myenv/
+
+/.dist/
